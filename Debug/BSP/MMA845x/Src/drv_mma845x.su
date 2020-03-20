@@ -1,0 +1,11 @@
+drv_mma845x.c:58:16:Drv_MMA845x_Init	16	static
+drv_mma845x.c:115:12:Drv_MMA845x_InitOrientationModule	24	static
+drv_mma845x.c:140:12:Drv_MMA845x_InitMotionModule	16	static
+drv_mma845x.c:167:12:Drv_MMA845x_nitTapDetectionModule	16	static
+drv_mma845x.c:199:12:Drv_MMA845x_InitTransientDetectionModule	16	static
+drv_mma845x.c:218:16:Drv_MMA845x_MainFunction	16	static
+drv_mma845x.c:244:6:Drv_MMA845x_MainFunction_IT	16	static
+drv_mma845x.c:258:28:Drv_MMA845x_RxXYZCpltCallback	16	static
+drv_mma845x.c:262:28:Drv_MMA845x_Int1Callback	16	static
+drv_mma845x.c:266:28:Drv_MMA845x_Int2Callback	16	static
+drv_mma845x.c:270:16:Drv_MMA845x_DeInit	16	static

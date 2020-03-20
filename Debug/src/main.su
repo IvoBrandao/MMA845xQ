@@ -1,0 +1,6 @@
+main.c:71:1:__io_putchar	16	static
+main.c:87:5:main	8	static
+main.c:131:6:Drv_MMA845x_RxXYZCpltCallback	48	static
+main.c:138:6:BSP_MMA845x_Init	8	static
+main.c:155:6:SystemClock_Config	232	static
+main.c:237:6:_Error_Handler	16	static
